@@ -21,7 +21,7 @@ export default function Footer() {
                 <div className="right">
                     <div className="col">
                         <p>Organized with support from:</p>
-                        <img id="#penn-logo" src="src/assets/penn-logo.png" alt="Penn Engineering" />
+                        <img id="#penn-logo" src="../src/assets/penn-logo.png" alt="Penn Engineering" />
                     </div>
                 </div>   
             </div>

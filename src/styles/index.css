@@ -1,22 +1,22 @@
 @font-face {
     font-family: FuturaPT;
-    src: url("src/assets/FuturaCyrillicMedium.woff");
+    src: url("../assets/FuturaCyrillicMedium.woff");
 }
 
 @font-face {
     font-family: FuturaPT;
-    src: url("src/assets/FuturaCyrillicHeavy.woff");
+    src: url("../assets/FuturaCyrillicHeavy.woff");
     font-weight: bold;
 }
 
 @font-face {
     font-family: ProximaNova;
-    src: url("src/assets/proximanova_regular.ttf");
+    src: url("../assets/proximanova_regular.ttf");
 }
 
 @font-face {
     font-family: ProximaNova;
-    src: url("src/assets/proximanova_bold.otf");
+    src: url("../assets/proximanova_bold.otf");
     font-weight: bold;
 }
 
@@ -28,7 +28,7 @@ body {
 #header {
     background-color: #FAF5E7;
     height: 100vh;
-    background-image: url("src/assets/landing-background.png");
+    background-image: url("../assets/landing-background.png");
     background-size: contain;
     background-repeat: no-repeat;
     background-position: bottom;
@@ -217,7 +217,7 @@ body {
 #footer {
     height: 575px;
     background-color:#FAF5E7;
-    background-image: url("src/assets/footer-background.png");
+    background-image: url("../assets/footer-background.png");
     background-size: contain;
     background-repeat: no-repeat;
     background-position: bottom;
