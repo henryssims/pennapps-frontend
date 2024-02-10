@@ -6,7 +6,7 @@ export default function Header() {
         <div id='header'>
             <div id='main-info'>
                 <div id="banner-date">
-                    <img id="banner" src="../src/assets/banner.png" alt="PennApps XXIII" />
+                    <img id="banner" src="./assets/banner.png" alt="PennApps XXIII" />
                     <p id='date'>September 8-10, 2023</p>
                 </div>
                 <Timer />
