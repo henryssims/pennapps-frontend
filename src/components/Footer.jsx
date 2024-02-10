@@ -1,3 +1,4 @@
+import logo from '../assets/penn-logo.png';
 
 export default function Footer() {
 
@@ -21,7 +22,7 @@ export default function Footer() {
                 <div className="right">
                     <div className="col">
                         <p>Organized with support from:</p>
-                        <img id="#penn-logo" src="./assets/penn-logo.png" alt="Penn Engineering" />
+                        <img id="#penn-logo" src={logo} alt="Penn Engineering" />
                     </div>
                 </div>   
             </div>
